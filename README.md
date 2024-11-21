@@ -7,9 +7,7 @@ This is a simple ToDo web application developed using Java, Spring Boot, Hiberna
 - [Features](#features)
 - [Requirements](#requirements)
 - [Setup](#setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -27,9 +25,3 @@ To run this application locally, you need:
 - MySQL server
 - IDE (e.g., IntelliJ IDEA, Eclipse)
 
-## Setup
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/todo-web-app.git
